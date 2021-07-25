@@ -66,9 +66,9 @@ export const FormContainer = styled.div`
         }
 
         & button {
-            width: 15%;
+            width: auto;
             margin-left: 15px;
-            padding: 15px;
+            padding: 15px 25px;
             color: #FFF;
             background-color: green;
             border: 0;
