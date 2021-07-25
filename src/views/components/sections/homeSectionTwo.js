@@ -35,7 +35,7 @@ export default function HomeSectionTwo() {
                     <p>
                         Desenvolvido por Marcio Satin 
                     </p>
-                    <a href="https://github.com/marciosatin/gama-react-landing-page">
+                    <a href="https://github.com/marciosatin/gama-cadastro-react">
                         <img src={ Github } alt="Github"/>
                     </a>
                 </S.Footer>
